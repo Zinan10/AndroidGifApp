@@ -1,7 +1,7 @@
 
 # Gif Search App
 
-<img src = "https://ibb.co/hLnCW66" width = "650px" >
+<img src = ![alt text](https://ibb.co/hLnCW66)  width = "650px" >
 
 
 This application allows users to search for GIFs using the Giphy API. Users can enter a search query, and the app will fetch and display a list of GIFs related to the query.
@@ -12,7 +12,6 @@ This application allows users to search for GIFs using the Giphy API. Users can 
 - MVVM Architecture
 - Hilt Dependency Injection (DI)
 - Compose UI
-- Navigation Compose or NavGraph
 - Multiple Fragments UI
 - Mockito or Junit or Mockk for Unit Testing
 
