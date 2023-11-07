@@ -1,7 +1,6 @@
 
 # Gif Search App
 
-<![alt text](https://ibb.co/hLnCW66)  width = "650px" >
 
 
 This application allows users to search for GIFs using the Giphy API. Users can enter a search query, and the app will fetch and display a list of GIFs related to the query.
