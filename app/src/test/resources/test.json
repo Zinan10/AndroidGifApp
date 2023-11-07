@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "type": "gif",
+      "id": "cfuL5gqFDreXxkWQ4o",
+      "url": "https://giphy.com/gifs/c…-cats-cfuL5gqFDreXxkWQ4o",
+      "slug": "cat-cool-cats-cfuL5gqFDreXxkWQ4o",
+      "bitly_gif_url": "http://gph.is/2I5xics",
+      "bitly_url": "http://gph.is/2I5xics",
+      "embed_url": "https://giphy.com/embed/cfuL5gqFDreXxkWQ4o",
+      "username": "Bubblepunk",
+      "source": "",
+      "title": "On My Way Goodbye GIF by Bubble Punk",
+      "rating": "g",
+      "content_url": "",
+      "source_tld": "",
+      "source_post_url": "",
+      "is_sticker": 0,
+      "import_datetime": "2018-03-04 20:50:43",
+      "trending_datetime": "1970-01-01 00:00:00",
+      "images": {},
+      "user": {},
+      "analytics_response_payload": "e=Z2lmX2lkPWNmdUw1Z3FGRH…zVtbXhmYjJhbjFrcSZjdD1n",
+      "analytics": {}
+    }
+  ],
+  "pagination": {
+    "total_count": 0,
+    "count": 0,
+    "offset": 0
+  },
+  "meta": {
+    "status": 200,
+    "msg": "OK",
+    "response_id": "paoz2n57fgvuf3p30e5u945xzviewy9xhzqtqgjt"
+  }
+}
